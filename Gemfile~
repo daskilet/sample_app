@@ -19,6 +19,8 @@ end
 group :test do
   gem "rspec-rails", "~> 2.12.0"
   gem 'webrat', '0.7.1'
+  gem "autotest"
+  gem "autotest-rails"
 end
 
 gem 'json'
