@@ -25,6 +25,7 @@ end
 
 gem 'json'
 gem 'spork'
+gem 'rb-readline'
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
